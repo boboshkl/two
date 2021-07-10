@@ -1,0 +1,64 @@
+
+	body{
+		Background-image:linear-gradient(to right, yellow, red,blue,white,black,orange);
+		Font-size:1.2rem;
+}
+div{
+	padding-top:2rem;
+	Height:250px;
+	margin:0 auto;
+	width:53%;
+	margin-top:30vh;
+	Background-image:linear-gradient(to right, grey, red,blue);
+	Border-radius:20px;
+	Justify-content:center;
+	
+}
+#psw{
+	margin-left:13vh;
+	Margin-top:-9px;
+}
+#psw button input {
+	color:red;
+	Font-style:italic;
+	Height:34px;
+}
+h1{
+	text-align:center;
+	Color:white;
+	font-size:35px;
+	}
+	label{
+		Margin-left:25px;
+}
+#psw:hover{
+	Background-image:linear-gradient(to right, grey, cyan, black);
+	color:white;
+	cursor:pointer;
+	transion:3s;
+}
+button:hover{
+	Background-image:linear-gradient(to left, grey, cyan, black);
+	color:white;
+	cursor:pointer;
+	transion:3s;
+}
+input
+	{
+	Background-image:linear-gradient(to left, yellow, green, purple);
+	color:white;
+	cursor:pointer;
+	transion:3s;
+	Font-size:25px;
+	Height:34px;
+}
+button{
+	height:40px;
+	Margin-top:-5px;
+	Paddin-top:-5px;
+	Font-size:1.2rem;
+}
+p{
+	text-align:center;
+	Font-size:1rem
+}
